@@ -18,6 +18,22 @@ Selected C++ programming exercises completed during the University of Oxford C++
 - Function templates
 - Generic programming
 
+## Repository Structure
+
+```text
+Oxford-Cpp-Programming-Exercises/
+│
+├── README.md
+├── file_io_and_array_processing.cpp
+├── function_overloading_and_references.cpp
+├── classes_and_operator_overloading.cpp
+├── multidimensional_arrays_and_algorithms.cpp
+├── dynamic_memory_and_pointer_arithmetic.cpp
+├── classes_and_function_overloading.cpp
+├── oop_vectors_and_stream_overloading.cpp
+├── inheritance_and_runtime_polymorphism.cpp
+└── function_templates_and_generic_programming.cpp
+
 ## Purpose
 
 These exercises represent selected examples from my formal C++ study
