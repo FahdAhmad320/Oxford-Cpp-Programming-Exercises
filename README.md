@@ -18,7 +18,7 @@ Selected C++ programming exercises completed during the University of Oxford C++
 - Function templates
 - Generic programming
 
-- ## Purpose
+## Purpose
 
 These exercises represent selected examples from my formal C++ study
 and demonstrate progression from fundamental programming constructs
